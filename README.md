@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-### - 2.1 Insertion sort
+ - 2.1 Insertion sort
 ### - 2.2 Bubble sort
 ### - 2.3 Selection sort
 ### - 2.4 Merge sort
