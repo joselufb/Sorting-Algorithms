@@ -12,3 +12,5 @@
 https://www.geeksforgeeks.org/sorting-algorithms/ 
 
 https://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento
+
+https://www.youtube.com/playlist?list=PLc_Ps3DdrcTsizjAG5uMhpoDfhDmxpOzv
