@@ -10,3 +10,4 @@
 
 #### References:
 https://www.geeksforgeeks.org/sorting-algorithms/ 
+https://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento
