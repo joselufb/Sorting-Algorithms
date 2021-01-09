@@ -6,7 +6,7 @@
  - 2.4 Merge sort
  - 2.5 Heap sort
  - 2.6 Quick sort
- - 2.7 Radix sort
+
 
 #### References:
 https://www.geeksforgeeks.org/sorting-algorithms/ 
